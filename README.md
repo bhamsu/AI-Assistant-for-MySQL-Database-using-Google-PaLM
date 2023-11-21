@@ -1,1 +1,1 @@
-# AI-Assistant-for-MySQL
+# AI Assistant for MySQL Database
