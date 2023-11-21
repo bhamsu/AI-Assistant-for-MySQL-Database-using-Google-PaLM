@@ -3,7 +3,7 @@ import streamlit
 from promptExecution import Database_Assistant
 
 db_assistant = Database_Assistant()
-streamlit.title("AI-BASED DATABASE ASSISTANT USING GOOGLE PALM")
+streamlit.title("AI-BASED DATABASE ASSISTANT")
 question = streamlit.text_input("Question: ")
 
 if question:
